@@ -390,22 +390,35 @@ section {
     flex: 1; 
     text-align: justify;
     font-size: 22px;
+<<<<<<< HEAD
     padding: 0px 20px 0px;
+=======
+>>>>>>> 7440b0a (Updated code)
     font-family: 'Merriweather', serif;
 }
 
 @media (max-width: 768px) {
+<<<<<<< HEAD
     .aboutcontainer p {
         flex-direction: column;
         text-align: justify;
         font-size: 15px;
         padding: 10px 20px 0px;
+=======
+    .aboutcontainer {
+        flex-direction: column;
+        text-align: justify;
+>>>>>>> 7440b0a (Updated code)
     }
 
     .aboutcontainer img {
         margin-right: 0; 
+<<<<<<< HEAD
         margin-bottom: 20px;
         padding: 0px 20px;
+=======
+        margin-bottom: 20px; 
+>>>>>>> 7440b0a (Updated code)
     }
 }
 

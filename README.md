@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Himaja's Portfolio
 
 Welcome to my portfolio! This project showcases my skills and projects using HTML, CSS, and JavaScript.
@@ -32,3 +33,40 @@ Technologies Used
 HTML
 CSS
 JavaScript
+=======
+# my-protfolio
+This is my portfolio website designed by me with the help of html , css , javascript. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 7440b0a (Updated code)
