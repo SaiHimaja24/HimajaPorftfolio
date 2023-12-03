@@ -399,12 +399,13 @@ section {
         flex-direction: column;
         text-align: justify;
         font-size: 15px;
-        padding: 20px 20px 0px;
+        padding: 10px 20px 0px;
     }
 
     .aboutcontainer img {
         margin-right: 0; 
-        margin-bottom: 20px; 
+        margin-bottom: 20px;
+        padding: 0px 20px;
     }
 }
 
